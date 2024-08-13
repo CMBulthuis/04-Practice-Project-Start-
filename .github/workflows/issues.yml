@@ -1,4 +1,4 @@
-name: deployment.yml
+name: issues.yml
 on: [issues, workflow_dispatch]
 
 jobs:
